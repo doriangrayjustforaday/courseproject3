@@ -17,7 +17,7 @@ The same holds for the training set.
 
 About the script and the tidy dataset
 -------------------------------------
-I created a script called runanalysis.R which will merge the test and training sets together.
+I created a script called run_analysis.R which will merge the test and training sets together.
 Prerequisites for this script:
 
 1. the UCI HAR Dataset must be extracted and..
